@@ -7,7 +7,7 @@
 - [ChatGPT](https://chatgpt.com) - The most well known chatbot.
 - [Claude](https://caude.ai) - Best for generating prose texts. Also allows creation of sharable artifacts.
 
-### Image generation
+## Image generation
 - [Midjourney](https://midjourney.com) - Best image generation.
 - [DALL-E 3](https://openai.com/dall-e-3) - Image generator used by ChatGPT.
 - [Stable Diffusion](https://stability.ai) - Open source image generation.
