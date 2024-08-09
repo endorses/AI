@@ -30,6 +30,7 @@
 
 ## Video generation
 - [Runway](https://runwayml.com/) - Video generation.
+- [Kling AI](https://klingai.org/) - Video generation.
 
 ## Search
 - [Perplexity](https://perplexity.ai) - Best AI based search engine.
