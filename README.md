@@ -3,9 +3,7 @@
 ## Learning
 - [NVIDIA: Generative AI Explained](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1) - Course on generative AI.
 
-## Tools
-
-### Text generation
+## Text generation
 - [ChatGPT](https://chatgpt.com) - The most well known chatbot.
 - [Claude](https://caude.ai) - Best for generating prose texts. Also allows creation of sharable artifacts.
 
@@ -16,9 +14,13 @@
 - [Flux](https://blackforestlabs.ai/) - Open source image generation.
 - [LetzAI](https://letz.ai) - Image generation/upscaling.
 
-### Video generation
+## Audo generation
+- [Suno](https://suno.com) - Music generator.
+- [Udio](https://www.udio.com) - Music generator.
+
+## Video generation
 - [Runway](https://runwayml.com/) - Video generation.
 
-### Search
+## Search
 - [Perplexity](https://perplexity.ai) - Best AI based search engine.
 - [SearchGPT](https://openai.com/index/searchgpt-prototype/) - OpenAI's AI search.
