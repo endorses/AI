@@ -19,6 +19,7 @@
 ## Image generation
 - [Midjourney](https://midjourney.com) - Best image generation.
 - [DALL-E 3](https://openai.com/dall-e-3) - Image generator used by ChatGPT.
+- [Imagen 3](https://aitestkitchen.withgoogle.com/tools/image-fx) - Google's image generator.
 - [Stable Diffusion](https://stability.ai) - Open source image generation.
 - [Flux](https://blackforestlabs.ai/) - Open source image generation.
 - [LetzAI](https://letz.ai) - Image generation/upscaling.
@@ -32,4 +33,4 @@
 
 ## Search
 - [Perplexity](https://perplexity.ai) - Best AI based search engine.
-- [SearchGPT](https://openai.com/index/searchgpt-prototype/) - OpenAI's AI search.
+- [SearchGPT](https://openai.com/index/searchgpt-prototype/) - OpenAI's AI search (currently in beta).
