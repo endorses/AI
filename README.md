@@ -31,6 +31,7 @@
 ## Video generation
 - [Runway](https://runwayml.com/) - Video generation.
 - [Kling AI](https://klingai.org/) - Video generation.
+- [Hedra Labs](https://www.hedra.com/) - Create videos of characters.
 
 ## Search
 - [Perplexity](https://perplexity.ai) - Best AI based search engine.
