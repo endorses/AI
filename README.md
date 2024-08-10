@@ -8,6 +8,7 @@
 * [Audo generation](#audo-generation)
 * [Video generation](#video-generation)
 * [Search](#search)
+* [Resources](#resources)
 
 ## Learning
 - [NVIDIA: Generative AI Explained](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1) - Course on generative AI.
