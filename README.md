@@ -1,4 +1,4 @@
-# The ultimate AI resource hub
+# Curated AI resources
 
 
 ## Table of contents
