@@ -11,6 +11,8 @@
 
 ## Learning
 - [NVIDIA: Generative AI Explained](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1) - Course on generative AI.
+- [HarvardX: Intro to AI with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python) - Course on machine learning with Python.
+- [DeepLearning.ai: AI Python for beginners] - Beginner course for AI with Python.
 
 ## Text generation
 - [ChatGPT](https://chatgpt.com) - The most well known chatbot.
@@ -23,6 +25,7 @@
 - [Stable Diffusion](https://stability.ai) - Open source image generation.
 - [Flux](https://blackforestlabs.ai/) - Open source image generation.
 - [LetzAI](https://letz.ai) - Image generation/upscaling.
+- [Leonardo.Ai](https://leonardo.ai) - Image generation & more.
 
 ## Audo generation
 - [Suno](https://suno.com) - Music generator.
@@ -37,3 +40,7 @@
 - [Perplexity](https://perplexity.ai) - Best AI based search engine.
 - [SearchGPT](https://openai.com/index/searchgpt-prototype/) - OpenAI's AI search (currently in beta).
 - [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Open source AI based search engine.
+
+## Resources
+- [Huggingface](https://huggingface.co) - AI community: models, datasets, etc.
+- [Civitai](https://civitai.com) - Stable diffusion/Flux models, loras, etc.
