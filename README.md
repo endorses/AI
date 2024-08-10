@@ -26,6 +26,7 @@
 - [Flux](https://blackforestlabs.ai/) - Open source image generation.
 - [LetzAI](https://letz.ai) - Image generation/upscaling.
 - [Leonardo.Ai](https://leonardo.ai) - Image generation & more.
+- [Ideogram](https://ideagram.ai) - Image generator.
 
 ## Audo generation
 - [Suno](https://suno.com) - Music generator.
