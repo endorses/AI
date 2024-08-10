@@ -18,6 +18,8 @@
 ## Text generation
 - [ChatGPT](https://chatgpt.com) - The most well known chatbot.
 - [Claude](https://caude.ai) - Best for generating prose texts. Also allows creation of sharable artifacts.
+- [Novelcrafter](https://novelcrafter.com) - For writing novels with AI.
+- [Sudowrite](https://sudowrite.com) - For writing novels with AI.
 
 ## Image generation
 - [Midjourney](https://midjourney.com) - Best image generation.
