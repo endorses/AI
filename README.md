@@ -8,7 +8,7 @@
 * [Audo generation](#audo-generation)
 * [Video generation](#video-generation)
 * [Search](#search)
-* [Resources](#resources)
+* [Communities and hubs](#communities-and-hubs)
 
 ## Learning
 - [NVIDIA: Generative AI Explained](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1) - Course on generative AI.
@@ -45,6 +45,6 @@
 - [SearchGPT](https://openai.com/index/searchgpt-prototype/) - OpenAI's AI search (currently in beta).
 - [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Open source AI based search engine.
 
-## Resources
+## Communities and hubs
 - [Huggingface](https://huggingface.co) - AI community: models, datasets, etc.
 - [Civitai](https://civitai.com) - Stable diffusion/Flux models, loras, etc.
