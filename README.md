@@ -27,6 +27,8 @@
 - [LetzAI](https://letz.ai) - Image generation/upscaling.
 - [Leonardo.Ai](https://leonardo.ai) - Image generation & more.
 - [Ideogram](https://ideagram.ai) - Image generator.
+- [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - WebUI for stable diffusion models.
+- [ComfyUI] - Node-based UI for stable diffusion models.
 
 ## Audo generation
 - [Suno](https://suno.com) - Music generator.
