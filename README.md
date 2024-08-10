@@ -12,7 +12,7 @@
 ## Learning
 - [NVIDIA: Generative AI Explained](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1) - Course on generative AI.
 - [HarvardX: Intro to AI with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python) - Course on machine learning with Python.
-- [DeepLearning.ai: AI Python for beginners] - Beginner course for AI with Python.
+- [DeepLearning.ai: AI Python for beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/) - Beginner course for AI with Python.
 
 ## Text generation
 - [ChatGPT](https://chatgpt.com) - The most well known chatbot.
