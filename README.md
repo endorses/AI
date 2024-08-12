@@ -9,6 +9,7 @@
 * [Video generation](#video-generation)
 * [Search](#search)
 * [Communities and hubs](#communities-and-hubs)
+* [Helpers](#helpers)
 
 ## Learning
 - [NVIDIA: Generative AI Explained](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1) - Course on generative AI.
@@ -54,3 +55,6 @@
 ## Communities and hubs
 - [Huggingface](https://huggingface.co) - AI community: models, datasets, etc.
 - [Civitai](https://civitai.com) - Stable diffusion/Flux models, loras, etc.
+
+## Helpers
+- [Pinokio](https://pinokio.computer) - Tool to easily install and run AI apps.
