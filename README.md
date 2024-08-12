@@ -36,6 +36,7 @@
 - [Leonardo.Ai](https://leonardo.ai) - Image generation & more.
 - [Ideogram](https://ideagram.ai) - Image generator.
 - [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - WebUI for stable diffusion models.
+- [Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - Fork of AUTOMATIC1111.
 - [ComfyUI](https://www.comfy.org/) - Node-based UI for stable diffusion models.
 
 ## Audo generation
