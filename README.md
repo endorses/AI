@@ -42,6 +42,7 @@
 ## Audo generation
 - [Suno](https://suno.com) - Music generator.
 - [Udio](https://www.udio.com) - Music generator.
+- [Elevenlabs](https://elevenlabs.io) - Text to speech & AI voice generator.
 
 ## Video generation
 - [Runway](https://runwayml.com/) - Video generation.
