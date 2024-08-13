@@ -33,6 +33,7 @@
 - [Stable Diffusion](https://stability.ai) - Open source image generation.
 - [Flux](https://blackforestlabs.ai/) - New up and coming open source image generator.
 - [LetzAI](https://letz.ai) - Image generation/upscaling.
+- [Magnific](https://magnific.ai) - Image upscaling/enhancing.
 - [Leonardo.Ai](https://leonardo.ai) - Image generation & more.
 - [Ideogram](https://ideagram.ai) - Image generator.
 - [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - WebUI for stable diffusion models.
