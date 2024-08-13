@@ -48,6 +48,7 @@
 - [Runway](https://runwayml.com/) - Video generation.
 - [Kling AI](https://klingai.org/) - Video generation.
 - [Hedra Labs](https://www.hedra.com/) - Create videos of characters.
+- [Luma Dream Machine](https://lumalabs.ai/dream-machine) - Video generation from text/video.
 
 ## Search
 - [Perplexity](https://perplexity.ai) - Best AI based search engine.
