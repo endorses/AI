@@ -22,7 +22,8 @@
 - [Gemini](https://gemini.google.com) - Google's text generation AI.
 - [Llama](https://llama.meta.com/) - Facebook/Meta's LLM (open source).
 - [Mistral](https://mistral.ai/) - Open source LLM.
-- [Groq](https://groq.com) - Makes LPUs, runs AI inferenece FAST.
+- [Groq](https://groq.com) - Makes LPUs, runs AI inference FAST (not to be confused with Grok).
+- [Grok](https://x.com/grok) - X's text generator (not to be confused with Grok). Can also generate images, using Flux.
 - [Novelcrafter](https://novelcrafter.com) - For writing novels with AI.
 - [Sudowrite](https://sudowrite.com) - For writing novels with AI.
 
