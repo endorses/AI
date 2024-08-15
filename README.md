@@ -41,7 +41,7 @@
 - [Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - Fork of AUTOMATIC1111.
 - [ComfyUI](https://www.comfy.org/) - Node-based UI for stable diffusion models.
 
-## Audo generation
+## Audio generation
 - [Suno](https://suno.com) - Music generator.
 - [Udio](https://www.udio.com) - Music generator.
 - [Elevenlabs](https://elevenlabs.io) - Text to speech & AI voice generator.
