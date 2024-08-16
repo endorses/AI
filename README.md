@@ -26,6 +26,8 @@
 - [Grok](https://x.com/grok) - X's text generator (not to be confused with Grok). Can also generate images, using Flux.
 - [Novelcrafter](https://novelcrafter.com) - For writing novels with AI.
 - [Sudowrite](https://sudowrite.com) - For writing novels with AI.
+- [gpt4all](https://www.nomic.ai/gpt4all) - Run LLMs locally.
+- [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - WebUI for LLMs.
 
 ## Image generation
 - [Midjourney](https://midjourney.com) - One of the best image generators.
