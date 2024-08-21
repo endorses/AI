@@ -28,6 +28,7 @@
 - [Sudowrite](https://sudowrite.com) - For writing novels with AI.
 - [gpt4all](https://www.nomic.ai/gpt4all) - Run LLMs locally.
 - [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - WebUI for LLMs.
+- [localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your docs locally.
 
 ## Image generation
 - [Midjourney](https://midjourney.com) - One of the best image generators.
