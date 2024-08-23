@@ -23,7 +23,7 @@
 - [Llama](https://llama.meta.com/) - Facebook/Meta's LLM (open source).
 - [Mistral](https://mistral.ai/) - Open source LLM.
 - [Groq](https://groq.com) - Makes LPUs, runs AI inference FAST (not to be confused with Grok).
-- [Grok](https://x.com/i/grok) - X's text generator (not to be confused with Grok). Can also generate images, using Flux.
+- [Grok](https://x.com/i/grok) - X's text generator (not to be confused with Groq). Can also generate images, using Flux.
 - [Novelcrafter](https://novelcrafter.com) - For writing novels with AI.
 - [Sudowrite](https://sudowrite.com) - For writing novels with AI.
 - [gpt4all](https://www.nomic.ai/gpt4all) - Run LLMs locally.
