@@ -26,6 +26,7 @@
 - [Grok](https://x.com/i/grok) - X's text generator (not to be confused with Groq). Can also generate images, using Flux.
 - [Novelcrafter](https://novelcrafter.com) - For writing novels with AI.
 - [Sudowrite](https://sudowrite.com) - For writing novels with AI.
+- [Infinite Bookshelf](https://infinite.streamlit.app/advanced) - Write a complete book with one prompt. Needs Groq API key.
 - [gpt4all](https://www.nomic.ai/gpt4all) - Run LLMs locally.
 - [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - WebUI for LLMs.
 - [localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your docs locally.
