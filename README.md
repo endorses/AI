@@ -5,7 +5,7 @@
 * [Learning](#learning)
 * [Text generation](#text-generation)
 * [Image generation](#image-generation)
-* [Audo generation](#audo-generation)
+* [Audio generation](#audio-generation)
 * [Video generation](#video-generation)
 * [Search](#search)
 * [Communities and hubs](#communities-and-hubs)
