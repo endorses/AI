@@ -18,7 +18,7 @@
 
 ## Text generation
 - [ChatGPT](https://chatgpt.com) - The most well known chatbot.
-- [Claude](https://caude.ai) - Best for generating prose texts. Also allows creation of sharable artifacts.
+- [Claude](https://caude.ai) - Best for generating prose text. Also allows creation of sharable artifacts.
 - [Gemini](https://gemini.google.com) - Google's text generation AI.
 - [Llama](https://llama.meta.com/) - Facebook/Meta's LLM (open source).
 - [Mistral](https://mistral.ai/) - Open source LLM.
