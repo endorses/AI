@@ -18,18 +18,28 @@
 - [Prompt Engineering Guide](https://www.promptingguide.ai/) - Resource for learning prompt engineering.
 
 ## Text generation
+
+### Chatbots
 - [ChatGPT](https://chatgpt.com) - The most well known chatbot.
 - [Claude](https://caude.ai) - Best for generating prose text. Also allows creation of sharable artifacts.
+- [Grok](https://x.com/i/grok) - X's text generator (not to be confused with Groq). Can also generate images, using Flux.
 - [Gemini](https://gemini.google.com) - Google's text generation AI.
+
+### LLM 
 - [Llama](https://llama.meta.com/) - Facebook/Meta's LLM (open source).
 - [Mistral](https://mistral.ai/) - Open source LLM.
 - [Groq](https://groq.com) - Makes LPUs, runs AI inference FAST (not to be confused with Grok).
-- [Grok](https://x.com/i/grok) - X's text generator (not to be confused with Groq). Can also generate images, using Flux.
+  
+### Coding
 - [Github Copilot](https://github.com/features/copilot) - AI coding helper by Github.
 - [Tabnine](https://www.tabnine.com/) - AI coding helper that can also be run locally.
+
+### Writing
 - [Novelcrafter](https://novelcrafter.com) - For writing novels with AI.
 - [Sudowrite](https://sudowrite.com) - For writing novels with AI.
 - [Infinite Bookshelf](https://infinite.streamlit.app/advanced) - Write a complete book with one prompt. Needs Groq API key.
+
+### Local 
 - [gpt4all](https://www.nomic.ai/gpt4all) - Run LLMs locally.
 - [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - WebUI for LLMs.
 - [localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your docs locally.
