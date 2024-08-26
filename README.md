@@ -45,16 +45,20 @@
 - [localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your docs locally.
 
 ## Image generation
+
+### Web
 - [Midjourney](https://midjourney.com) - One of the best image generators.
 - [DALL-E 3](https://openai.com/dall-e-3) - Image generator used by ChatGPT.
 - [Imagen 3](https://aitestkitchen.withgoogle.com/tools/image-fx) - Google's image generator.
-- [Stable Diffusion](https://stability.ai) - Open source image generation.
-- [Flux](https://blackforestlabs.ai/) - New up and coming open source image generator.
 - [LetzAI](https://letz.ai) - Image generation/upscaling.
 - [Magnific](https://magnific.ai) - Image upscaling/enhancing.
 - [Freepik](https://www.freepik.com) - Can generate images with Flux and "Mystic"
 - [Leonardo.Ai](https://leonardo.ai) - Image generation & more.
 - [Ideogram](https://ideagram.ai) - Image generator.
+
+### Local
+- [Stable Diffusion](https://stability.ai) - Open source image generation.
+- [Flux](https://blackforestlabs.ai/) - New up and coming open source image generator.
 - [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - WebUI for stable diffusion models.
 - [Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - Fork of AUTOMATIC1111.
 - [ComfyUI](https://www.comfy.org/) - Node-based UI for stable diffusion models.
