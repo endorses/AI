@@ -86,3 +86,4 @@
 
 ## Helpers
 - [Pinokio](https://pinokio.computer) - Tool to easily install and run AI apps.
+- [Awesome ChatGPT Prompts](https://prompts.chat/) - Collection of prompt examples.
