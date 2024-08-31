@@ -64,8 +64,13 @@
 - [ComfyUI](https://www.comfy.org/) - Node-based UI for stable diffusion models.
 
 ## Audio generation
+
+### Music
 - [Suno](https://suno.com) - Music generator.
 - [Udio](https://www.udio.com) - Music generator.
+- [AudioCraft](https://ai.meta.com/resources/models-and-libraries/audiocraft/) - Meta's music and sound generator.
+
+### Voice
 - [Elevenlabs](https://elevenlabs.io) - Text to speech & AI voice generator.
 
 ## Video generation
