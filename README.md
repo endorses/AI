@@ -84,6 +84,7 @@
 - [Perplexity](https://perplexity.ai) - Best AI based search engine.
 - [SearchGPT](https://openai.com/index/searchgpt-prototype/) - OpenAI's AI search (currently in beta).
 - [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Open source AI based search engine.
+- [You.com](https://you.com) - AI based search engine.
 
 ## Communities and hubs
 - [Huggingface](https://huggingface.co) - AI community: models, datasets, etc.
