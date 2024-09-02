@@ -55,6 +55,7 @@
 - [Freepik](https://www.freepik.com) - Can generate images with Flux and "Mystic"
 - [Leonardo.Ai](https://leonardo.ai) - Image generation & more.
 - [Ideogram](https://ideagram.ai) - Image generator.
+- [RenderNet](https://rendernet.ai) - Create and manage avatars with character consistency and lip-syncing. 
 
 ### Local
 - [Stable Diffusion](https://stability.ai) - Open source image generation.
