@@ -95,3 +95,4 @@
 ## Helpers
 - [Pinokio](https://pinokio.computer) - Tool to easily install and run AI apps.
 - [Awesome ChatGPT Prompts](https://prompts.chat/) - Collection of prompt examples.
+- [LangChain](https://www.langchain.com/) - Language Model Application development framework.
