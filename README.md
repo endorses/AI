@@ -96,4 +96,4 @@
 - [Pinokio](https://pinokio.computer) - Tool to easily install and run AI apps.
 - [Awesome ChatGPT Prompts](https://prompts.chat/) - Collection of prompt examples.
 - [LangChain](https://www.langchain.com/) - Language Model Application development framework.
-- [LangFlow](https://www.langflow.org/) - UI for creating agents.
+- [LangFlow](https://www.langflow.org/) - UI for creating agents with LangChain.
