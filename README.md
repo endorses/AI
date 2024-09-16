@@ -74,6 +74,7 @@
 
 ### Voice
 - [Elevenlabs](https://elevenlabs.io) - Text to speech & AI voice generator.
+- [XTTS2](https://github.com/coqui-ai/TTS) - Deep learning toolkit for local TTS voice clone generator.
 
 ## Video generation
 - [Runway](https://runwayml.com/) - Video generation.
