@@ -24,6 +24,7 @@
 - [Claude](https://caude.ai) - Best for generating prose text. Also allows creation of sharable artifacts.
 - [Grok](https://x.com/i/grok) - X's text generator (not to be confused with Groq). Can also generate images, using Flux.
 - [Gemini](https://gemini.google.com) - Google's text generation AI.
+- [DeepSeek](https://www.deepseek.com/en) - Chinese chatbot.
 
 ### LLM 
 - [Llama](https://llama.meta.com/) - Facebook/Meta's LLM (open source).
