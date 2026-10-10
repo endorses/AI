@@ -171,6 +171,7 @@ Check each model's license and hardware requirements. ComfyUI can provide workfl
 
 - [OpenClaw](https://openclaw.ai/) - Personal agent with persistent memory, messaging integrations, and browser, file, and shell tools.
 - [Hermes Agent](https://github.com/NousResearch/hermes-agent) - Personal agent with persistent memory, reusable skills, scheduled tasks, and multiple model providers.
+- [Grok Bot](https://docs.x.ai/grok-bot/overview) - Hosted personal agents with persistent memory, a cloud computer, reusable skills, and scheduled routines. Requires an eligible Cursor or SuperGrok subscription.
 
 ## Agent development and integrations
 
