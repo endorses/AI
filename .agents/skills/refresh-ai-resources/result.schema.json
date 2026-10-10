@@ -1,0 +1,46 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "status",
+    "review_date",
+    "reviewed_sections",
+    "summary",
+    "changes",
+    "evidence"
+  ],
+  "properties": {
+    "status": { "type": "string", "enum": ["ready", "no_changes", "blocked"] },
+    "review_date": { "type": "string" },
+    "reviewed_sections": { "type": "array", "items": { "type": "string" } },
+    "summary": { "type": "string" },
+    "changes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["resource", "action", "reason", "sources"],
+        "properties": {
+          "resource": { "type": "string" },
+          "action": { "type": "string", "enum": ["add", "update", "remove"] },
+          "reason": { "type": "string" },
+          "sources": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    },
+    "evidence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["section", "topic", "url", "finding"],
+        "properties": {
+          "section": { "type": "string" },
+          "topic": { "type": "string" },
+          "url": { "type": "string" },
+          "finding": { "type": "string" }
+        }
+      }
+    }
+  }
+}
