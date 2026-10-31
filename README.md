@@ -73,6 +73,7 @@ Downloadable weights do not necessarily mean an unrestricted open-source model. 
 - [Devin Desktop](https://devin.ai/desktop) - IDE and command center for local and cloud coding agents; the current destination of Windsurf's website.
 - [Tabnine](https://www.tabnine.com/) - Coding assistance with enterprise [private deployment options](https://docs.tabnine.com/main/welcome/readme/architecture/deployment-options), including VPC, on-premises, and air-gapped installations.
 - [v0](https://v0.app/) - Vercel's application builder, with UI generation, database connections, GitHub synchronization, and deployment.
+- [agent-qa](https://vostride.com) - Web and mobile AI testing from vostride with persistent memidex memory, validated self-improvement, CLI/MCP, and reviewable run evidence. Model costs depend on usage.
 
 ## Writing
 
